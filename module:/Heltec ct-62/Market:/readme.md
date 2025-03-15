@@ -1,0 +1,2 @@
+- 6.90  https://www.alibaba.com/product-detail/Heltec-ESP32C3-SX1262-LoRa-Module-HT_1600673882659.html
+- 10.50  https://www.aliexpress.com/i/3256805312569831.html?gatewayAdapt=4itemAdapt
